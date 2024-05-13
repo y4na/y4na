@@ -3,8 +3,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img align="right" width="500px" src="https://preview.redd.it/0k6meqvps4h91.gif?width=640&crop=smart&auto=webp&s=37b07501624618d223280da461d777724f0266fc"/> <br>
-👩🏻‍🎓 A sophomore computer science student from the PH <br>
+<img align="right" width="600px" src="https://img.wattpad.com/7a1d9a1dccca75e63390136cbe782b7064c1f1a9/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f734379704566455f4433385161773d3d2d3333373739353839372e313438613131386536396431306133363834323130323535373835312e676966"/> <br>
+👩🏻‍🎓 A sophomore computer science student <br>
 🔭 I’m currently working on an <a href="https://github.com/y4na/Communnect-Android">Android app</a> <br>
 🦄 Graphics Designer <br>
 🌱 I’m currently learning PHP & libGDX <br>
@@ -23,3 +23,4 @@
 
 
 <!-- https://64.media.tumblr.com/b4e9d0dc8a84f0ab3f3db834e533962b/6a0db5db88e1e344-86/s640x960/451131c5721d7454a4042f6e849eec44db20426e.gif-->
+<!-- https://preview.redd.it/0k6meqvps4h91.gif?width=640&crop=smart&auto=webp&s=37b07501624618d223280da461d777724f0266fc-->
