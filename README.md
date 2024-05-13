@@ -1,4 +1,4 @@
-
+<img align="center" src="https://tenor.com/view/aesthetic-purple-closing-eyes-eye-anime-gif-10877442702173562629"/>
 <h1 align="center">What's up! I'm Yana 👋</h1>
 
 [![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in)
