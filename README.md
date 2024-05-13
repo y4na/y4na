@@ -1,9 +1,9 @@
-<img align="center" src="https://tenor.com/view/aesthetic-purple-closing-eyes-eye-anime-gif-10877442702173562629"/>
+<!--![MasterHead](https://i.pinimg.com/originals/6a/fc/cf/6afccf8e195254fbfcb454df97c03c83.gif)-->
 <h1 align="center">What's up! I'm Yana 👋</h1>
 
 [![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in)
-<br>
-<br>
+
+<img align="right" src="https://preview.redd.it/0k6meqvps4h91.gif?width=640&crop=smart&auto=webp&s=37b07501624618d223280da461d777724f0266fc"/> <br>
 👩🏻‍🎓 A sophomore computer science student from the PH <br>
 🔭 I’m currently working on an <a href="https://github.com/y4na/Communnect-Android">Android app</a> <br>
 🦄 Graphics Designer <br>
@@ -22,3 +22,4 @@
 
 
 
+<!-- https://64.media.tumblr.com/b4e9d0dc8a84f0ab3f3db834e533962b/6a0db5db88e1e344-86/s640x960/451131c5721d7454a4042f6e849eec44db20426e.gif-->
