@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img align="right" src="https://preview.redd.it/0k6meqvps4h91.gif?width=640&crop=smart&auto=webp&s=37b07501624618d223280da461d777724f0266fc"/> <br>
+<img align="right" width="500px" src="https://preview.redd.it/0k6meqvps4h91.gif?width=640&crop=smart&auto=webp&s=37b07501624618d223280da461d777724f0266fc"/> <br>
 👩🏻‍🎓 A sophomore computer science student from the PH <br>
 🔭 I’m currently working on an <a href="https://github.com/y4na/Communnect-Android">Android app</a> <br>
 🦄 Graphics Designer <br>
