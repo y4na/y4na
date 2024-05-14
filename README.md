@@ -5,7 +5,7 @@
 
 <img align="right" width="500px" src="https://i.pinimg.com/originals/91/76/ec/9176ece0b81e2883651c03682020e1cd.gif"/> <br>
 🦄 I like creativity <br>
-👩🏻‍🎓 A sophomore computer science student <br>
+👩🏻‍🎓 A computer science student that sucks at coding <br>
 🔭 I’m currently working on an <a href="https://github.com/y4na/Communnect-Android">Android app</a> <br>
 🌱 I’m currently learning PHP & libGDX <br>
 🤔 DSA is not my forte :((<br>
