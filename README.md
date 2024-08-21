@@ -6,8 +6,8 @@
 <img align="right" width="500px" src="https://i.pinimg.com/originals/91/76/ec/9176ece0b81e2883651c03682020e1cd.gif"/> <br>
 🦄 I like creativity <br>
 👩🏻‍🎓 A computer science student that sucks at coding <br>
-🔭 I’m currently working on an <a href="https://www.figma.com/proto/7Ea0jiaHDyttc6uYgjvAzE/COMMUNNECT?page-id=0%3A1&node-id=30-26&viewport=607%2C729%2C0.25&t=AWva2RTclSfyDs9S-1&scaling=scale-down&starting-point-node-id=30%3A26&show-proto-sidebar=1">Android app</a> <br>
-🌱 I’m currently learning PHP & libGDX <br>
+🔭 I’m currently working on <i>nothing yet</i> <br>
+🌱 I’m currently learning Python Django & React <br>
 🤔 DSA is not my forte :((<br>
 ⚡ Fun fact: I love <a href="https://twice.jype.com/"><strong>TWICE<strong></a> <br>
 
