@@ -2,7 +2,7 @@
 
 <!--[![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
-<img align="right" width="500px" src="https://x.com/i/status/1797694091523993668"/> <br>
+<img align="right" width="500px" src="https://media1.tenor.com/m/AsYo3TWksEAAAAAd/aespa-armageddon-aespa.gif"/> <br>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=y4na&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4na&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
