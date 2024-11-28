@@ -8,9 +8,14 @@
   <br>
   <img width="700px" src="https://media1.tenor.com/m/AsYo3TWksEAAAAAd/aespa-armageddon-aespa.gif"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4na&theme=aura&hide_border=false"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4na&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <br>
+  <div style="display: flex; align-items: center;">
+  <img width="50px" height="50px" src="https://img1.picmix.com/output/stamp/normal/0/1/3/9/1599310_d0a74.gif"/>
+  <p align="right"> Ḋ̤͇̮͙ͥr̶̷̲͍̭͐̾̀͟û̶͙̽̿͆̈n̷̶̯͉̊̽̐ͦ͘k̶̸͙̭̹͆͟ę̷̵̧̖̫̗̆̊n̷̶̯͉̊̽̐ͦ͘ m̶̷͔ͪ̽͡ȍ̸̢̢̮͚̐̚n̷̶̯͉̊̽̐ͦ͘ȍ̸̢̢̮͚̐̚ḻ̸͈ͧ͑̓̓̀͡ȍ̸̢̢̮͚̐̚g̴̶̛̮̣͙͠û̶͙̽̿͆̈ę̷̵̧̖̫̗̆̊s̩͙͖̋͛͟ </p>
+  </div>
+  
 </p>
 
 
