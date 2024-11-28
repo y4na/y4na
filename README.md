@@ -1,9 +1,8 @@
 <!--![MasterHead](https://i.pinimg.com/originals/6a/fc/cf/6afccf8e195254fbfcb454df97c03c83.gif)-->
-<h1 align="center">What's up! 👋</h1>
 
-[![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
-<img align="right" width="500px" src="https://i.pinimg.com/originals/91/76/ec/9176ece0b81e2883651c03682020e1cd.gif"/> <br>
+<img align="right" width="500px" src="https://x.com/i/status/1797694091523993668"/> <br>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=y4na&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4na&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
