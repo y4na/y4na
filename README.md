@@ -2,20 +2,16 @@
 
 <!--[![](https://visitcount.itsvg.in/api?id=y4na&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
-<img align="center" width="500px" src="https://media0.giphy.com/media/hJytN9xY3vApQbSvZf/200w.webp"/> <br>
-<img align="center" width="500px" src="https://media1.tenor.com/m/AsYo3TWksEAAAAAd/aespa-armageddon-aespa.gif"/> <br>
+<p align="center">
 
-<!--![](https://github-readme-stats.vercel.app/api?username=y4na&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4na&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- ### 👾 Applications
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) -->
-  
-<!-- ### 💜 Support me <3
-<p><a href="https://ko-fi.com/yanamkl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/yanamkl" /></a></p><br><br> -->
+  <img width="800px" height="400px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fc3584b9-ef3c-44fd-a3b8-5e43c2e3e2fa/dhjxksc-6c15a3a2-e506-4563-ba00-370ca7588f1e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjMzU4NGI5LWVmM2MtNDRmZC1hM2I4LTVlNDNjMmUzZTJmYVwvZGhqeGtzYy02YzE1YTNhMi1lNTA2LTQ1NjMtYmEwMC0zNzBjYTc1ODhmMWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BhRl76rY3l22ujiK79vNec2cz6BPCbjnXzDUA_7iG9k"/>
+  <br>
+  <img width="800px" src="https://media1.tenor.com/m/AsYo3TWksEAAAAAd/aespa-armageddon-aespa.gif"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4na&theme=aura&hide_border=false"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4na&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
 
 
 
-<!-- https://64.media.tumblr.com/b4e9d0dc8a84f0ab3f3db834e533962b/6a0db5db88e1e344-86/s640x960/451131c5721d7454a4042f6e849eec44db20426e.gif-->
-<!-- https://preview.redd.it/0k6meqvps4h91.gif?width=640&crop=smart&auto=webp&s=37b07501624618d223280da461d777724f0266fc-->
