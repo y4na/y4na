@@ -4,9 +4,9 @@
 
 <p align="center">
 
-  <img width="800px" height="400px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fc3584b9-ef3c-44fd-a3b8-5e43c2e3e2fa/dhjxksc-6c15a3a2-e506-4563-ba00-370ca7588f1e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjMzU4NGI5LWVmM2MtNDRmZC1hM2I4LTVlNDNjMmUzZTJmYVwvZGhqeGtzYy02YzE1YTNhMi1lNTA2LTQ1NjMtYmEwMC0zNzBjYTc1ODhmMWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BhRl76rY3l22ujiK79vNec2cz6BPCbjnXzDUA_7iG9k"/>
+  <img width="600px" height="200px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fc3584b9-ef3c-44fd-a3b8-5e43c2e3e2fa/dhjxksc-6c15a3a2-e506-4563-ba00-370ca7588f1e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjMzU4NGI5LWVmM2MtNDRmZC1hM2I4LTVlNDNjMmUzZTJmYVwvZGhqeGtzYy02YzE1YTNhMi1lNTA2LTQ1NjMtYmEwMC0zNzBjYTc1ODhmMWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BhRl76rY3l22ujiK79vNec2cz6BPCbjnXzDUA_7iG9k"/>
   <br>
-  <img width="800px" src="https://media1.tenor.com/m/AsYo3TWksEAAAAAd/aespa-armageddon-aespa.gif"/>
+  <img width="700px" src="https://media1.tenor.com/m/AsYo3TWksEAAAAAd/aespa-armageddon-aespa.gif"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4na&theme=aura&hide_border=false"/>
   <br>
